@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_away_team_past" type="id" />
+    <item name="iv_away_team_past" type="id" />
+    <item name="tv_away_team" type="id" />
+    <item name="tv_home_team" type="id" />
+    <item name="iv_home_team_past" type="id" />
+    <item name="tv_home_team_past" type="id" />
+    <item name="rv_match_result" type="id" />
+    <item name="progress_bar" type="id" />
+    <item name="swipeRefresh" type="id" />
+</resources>
